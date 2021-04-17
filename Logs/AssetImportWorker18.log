@@ -1,0 +1,21 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.867; Version 2004; 64bit' Language: 'es' Physical Memory: 8102 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker18
+-projectPath
+C:/Users/FUCK/Documents/UnityProjects/ProjectT1
+-logFile
+Logs/AssetImportWorker18.log
+-srvPort
+57998
+Successfully changed project path to: C:/Users/FUCK/Documents/UnityProjects/ProjectT1
+C:/Users/FUCK/Documents/UnityProjects/ProjectT1
+Using Asset Import Pipeline V2.
